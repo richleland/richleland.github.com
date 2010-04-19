@@ -1,0 +1,34 @@
+Project plan
+============
+
+Research
+********
+
+* Create a map of the current Python sites
+* Create a master list of current administrators and contributors
+* Determine the various pieces of the online Python ecosystem
+* Analyze current site and determine what works, what does not work
+* Explore project goals and options for achieving them
+* Create team of community members to elicit insight through questionnaires
+* Gain understanding of systems and current technology implementation
+* Survey of technologies available for enhancements
+* Determine content priorities (e.g. downloading, case studies, community, etc.)
+
+Propose
+*******
+
+Create a formal proposal for the PSF board with:
+
+* Research summary
+* Technology options
+* Content migration plan
+* Target timelines
+* Project team(s)
+* Phased approach
+* Methods of measuring success
+* Execution/vendor search plan
+
+Implement
+*********
+
+Once input, revisions and approval are provided by the PSF the implementation should begin. At this time it may be prudent to call a meeting of the project team(s), whether remote or at a central gathering place, to discuss the battle plan and rally the troops.

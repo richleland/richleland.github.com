@@ -1,0 +1,12 @@
+Project ideas
+=============
+
+This is simply a scratch pad for random ideas throughout project planning.
+
+* Use Transifex for community contributions to localization
+* Move python.org repository to bitbucket and github to encourage contributions
+* Create Hudson instance for continuous integration
+* Unified look among python.org, pypi, pycon.org
+* Public profiles for Python developers
+* Visual PSF directories
+* Single sign-on

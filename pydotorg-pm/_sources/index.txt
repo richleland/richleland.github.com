@@ -1,0 +1,14 @@
+python.org project 2010
+=======================
+
+These documents contain information for the 2010 python.org project management plan, notes, recommendations and other pertinent information.
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+   
+   goals
+   plan
+   ideas
+   
